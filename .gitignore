@@ -1,0 +1,5 @@
+**/.terraform/*
+*.pyc
+*.DS_Store
+*.swp
+**/*egg-info*
